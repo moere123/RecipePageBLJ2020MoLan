@@ -8,3 +8,29 @@ h1 {
     font-family: Verdana;
     color: lightsalmon;
 }
+
+h2 {
+    font-family: verdana;
+    color: lightsalmon;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+h3 {
+    font-family: verdana;
+    color: black;
+    margin-left: 100px;
+}
+
+h4 {
+    font-family: verdana;
+    color: lightpink;
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+img {
+    height: 500px;
+    float: right;
+    margin-right: 100px;
+}
